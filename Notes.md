@@ -44,7 +44,6 @@ Type Casting
 Arithmetic Operation
 
     Four arithmetic operation. Double slash(//) used for integer division. Error if try to divide by zero.
-    Follows arithmetic priority of calculation signs.
     Reminder of division to find of even or odd number
     
     Examples:
@@ -65,6 +64,17 @@ Arithmetic Operation
     Example: print(10 ** 2)  # 100
 
 
+Operation priority
+
+    To sum up, there is a list of priorities for all considered operations:
+
+    parentheses
+    power
+    unary minus
+    multiplication, division, and remainder
+    addition and subtraction
+    
+    In case of same priority operations, Python follows a left-to-right operation convention from mathematics
 
 
 
