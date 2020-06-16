@@ -3,9 +3,9 @@ Storing jet brains project notes
 
 Function
 
-A function is a block of code that does some useful work for you, e.g. prints a text. 
-In some sense, a function is a subprogram that can be reused within your programs. 
-When the name of a function is followed by parentheses, it means that it was called to get the result.
+>> A function is a block of code that does some useful work for you, e.g. prints a text. 
+>> In some sense, a function is a subprogram that can be reused within your programs. 
+>> When the name of a function is followed by parentheses, it means that it was called to get the result.
 
 Using quotes convention
 
@@ -14,13 +14,13 @@ Using quotes convention
 >> do NOT mix two styles in one literal, for example, something like "string!' is NOT correct
 >> most importantly, be consistent in your use!
 
->> Escaping
-Using the backslash symbol (\) before the quotes inside of the string will tell Python that the quote symbol that follows it is a part of the string.
-Rather than its end or beginning. It is called escaping.
+Escaping
+>> Using the backslash symbol (\) before the quotes inside of the string will tell Python that the quote symbol that follows it is a part of the string.
+>> Rather than its end or beginning. It is called escaping.
 
 Multiple lines 
 
->>  You can also write multi-line strings in Python, and to do that you need to use triple quotes on each side of the string literal.
+>> You can also write multi-line strings in Python, and to do that you need to use triple quotes on each side of the string literal.
 >> Example: 
 print("""This
 is
