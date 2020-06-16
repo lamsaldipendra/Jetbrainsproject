@@ -28,3 +28,25 @@ a
 multi-line
 string""")
 
+Type Casting
+
+>> The process of converting a value to another type is also called type casting
+>> Example:
+>> raw_age = "22"
+    print(type(raw_age))  # <class 'str'>
+    age = int(raw_age)
+    print(type(age))  # <class 'int'>
+
+>> string containing float numbers cannot be converted to int directly. Change to float then to int. But str with int number can be converted to float directly
+
+
+
+
+
+
+
+
+
+
+
+
