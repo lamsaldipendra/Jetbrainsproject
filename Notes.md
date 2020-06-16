@@ -58,9 +58,11 @@ Arithmetic Operation
     # The first number is less than the divisor
     print(55 % 77)   # 55
     # With negative numbers, it preserves the divisor sign
-    print(-11 % 5)    # 4
-    print(11 % -5)    # -4
+    print(-11 % 5)    # 4. 5 is positive so reminder is positive.
+    print(11 % -5)    # -4 5 is negative so reminder is negative.
     
+    Exponention. to the power
+    Example: print(10 ** 2)  # 100
 
 
 
