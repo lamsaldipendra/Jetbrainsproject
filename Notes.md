@@ -119,6 +119,27 @@ Boolean logic
     Here are the operators in order of their priorities: not, and, or. So, not is considered first, than and, finally or.
     print(False or not False)  # True
 
+Truthy and Falsy Values
+
+    When used with logical operators, values of non-boolean types, such as integers or strings, are called truthy or falsy
+    It depends on whether they are interpreted as True or False.
+
+    The following values are evaluated to False in Python:
+    constants defined to be false: None and False,
+    zero of any numeric type: 0, 0.0,
+    empty sequences and containers: "", [], {}.
+    Anything else generally evaluates to True
+    
+    Example: Falsy;
+    print(0.0 or False)  # False
+    print(False and "")  # False
+    
+    Truthy;
+    # `and` has a higher priority than `or`
+    truthy_integer = False or 5 and 100  # 100
+
+
+
 
 
 
