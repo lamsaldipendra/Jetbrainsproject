@@ -94,12 +94,30 @@ Knuth's style
               - ira_deduction
               - student_loan_interest)
 
+Boolean logic
 
+    True False value
+    3 boolean operators
+    2 binay operators; and & or, 1 unary operator; not
 
+    And operator:
+    a = True and True    # True
+    b = True and False   # False
+    c = False and False  # False
+    d = False and True   # False
 
+    OR operator:
+    a = True or True    # True
+    b = True or False   # True
+    c = False or False  # False
+    d = False or True   # True
 
-
-
+    NOT operator:
+    to_be = True           # to_be is True
+    not_to_be = not to_be  # not_to_be is False
+    
+    Here are the operators in order of their priorities: not, and, or. So, not is considered first, than and, finally or.
+    print(False or not False)  # True
 
 
 
