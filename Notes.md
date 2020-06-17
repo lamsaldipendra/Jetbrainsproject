@@ -76,6 +76,28 @@ Operation priority
     
     In case of same priority operations, Python follows a left-to-right operation convention from mathematics
 
+PEP on binary operation
+
+    surround a binary operator with a single space on both sides
+    Example:
+    number=30+12      # No!
+    number = 30 + 12  # It's better this way
+    
+
+Knuth's style
+
+    formulas always break before binary operations
+    # Yes: easy to match operators with operands
+    income = (gross_wages
+              + taxable_interest
+              + (dividends - qualified_dividends)
+              - ira_deduction
+              - student_loan_interest)
+
+
+
+
+
 
 
 
