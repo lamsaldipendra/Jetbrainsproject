@@ -138,8 +138,8 @@ Truthy and Falsy Values
     # `and` has a higher priority than `or`
     truthy_integer = False or 5 and 100  # 100
 
-
-
+    The operators or and and return one of their operands, not necessarily of the boolean type. Nonetheless, not always returns a boolean value.
+    Example: tricky = not (False or '')  # True
 
 
 
