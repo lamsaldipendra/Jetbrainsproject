@@ -1,4 +1,4 @@
-## Notes from Jetbrains Academy
+## Python-Notes
 
 Function
 
