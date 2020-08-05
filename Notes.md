@@ -1,4 +1,4 @@
-# Jetbrainsproject
+# Notes from Jetbrains Academy
 Storing jet brains project notes
 
 Function
