@@ -1,5 +1,4 @@
-# Notes from Jetbrains Academy
-Storing jet brains project notes
+## Notes from Jetbrains Academy
 
 Function
 
