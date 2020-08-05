@@ -1,2 +1,2 @@
-# Jetbrainsproject
-Storing jet brains project notes
+# Python Notes
+Storing python notes
