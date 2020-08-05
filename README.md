@@ -1,2 +1,2 @@
 # Python Notes
-Storing python notes
+Notes on wiki
